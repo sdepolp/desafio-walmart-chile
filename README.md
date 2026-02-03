@@ -20,8 +20,12 @@ Implementar un sistema que permita:
 
 ## Stack
 
+
+## Stack
+
 - Java 21
-- Spring Boot (Web, Validation, Data JPA)
+- Spring Boot 3.4.1 (Web, Validation, Data JPA)
+- Swagger / OpenAPI (springdoc): `org.springdoc:springdoc-openapi-starter-webmvc-ui:2.7.0`
 - H2 (in-memory) para ejecución local
 - JUnit 5 + Mockito para tests
 - SpringBootTest para tests integrales
@@ -66,3 +70,10 @@ Paquete base: `cl.walmart.desafio`
 
 ```bash
 ./mvnw spring-boot:run
+```
+
+## Swagger UI (OpenAPI)
+
+Una vez levantada la app en tu máquina, la documentación interactiva (Swagger UI) se puede ver desde **localhost** en:
+
+- http://localhost:8080/swagger-ui/index.html
