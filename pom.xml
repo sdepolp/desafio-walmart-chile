@@ -8,11 +8,11 @@
 		<version>3.4.1</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>cl.wallmart</groupId>
+	<groupId>cl.walmart</groupId>
 	<artifactId>desafio</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>desafio</name>
-	<description>Desafio Tecnico para Wallmart</description>
+	<description>Desafio Tecnico para Walmart</description>
 	<url/>
 	<licenses>
 		<license/>

@@ -30,7 +30,7 @@ Implementar un sistema que permita:
 
 ## Estructura (Arquitectura Hexagonal)
 
-Paquete base: `cl.wallmart.desafio`
+Paquete base: `cl.walmart.desafio`
 
 - `domain/`
     - `model/` entidades/VOs del dominio
