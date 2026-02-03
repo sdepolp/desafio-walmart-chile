@@ -56,7 +56,7 @@ Paquete base: `cl.walmart.desafio`
 ## Requisitos previos
 
 - Java 21 instalado
-- Maven (o usar `mvnw` si el proyecto lo trae)
+- Maven
 
 ---
 
@@ -69,7 +69,7 @@ Paquete base: `cl.walmart.desafio`
 2. Levanta la app:
 
 ```bash
-./mvnw spring-boot:run
+mvn spring-boot:run
 ```
 
 ## Swagger UI (OpenAPI)
